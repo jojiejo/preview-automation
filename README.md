@@ -24,7 +24,7 @@ end tell'
 <img width="1112" alt="Screen Shot 2022-03-31 at 11 37 21" src="https://user-images.githubusercontent.com/36635194/160981428-40ba740f-fbb1-49d4-a701-9c33cae18b9f.png">
 
 9. Click `Record` on the top left of the window. Basically, this will record pointer & keyboard moves.
-Personally, i use this to reopen terminal window on the task bar -> type `lldb Lumina Studio` -> type `run` -> and bring the Lumina Studio to the front 
+Personally, i use this to reopen terminal window on the task bar -> type `lldb Lumina Studio` -> press return -> type `run` -> press return again -> and bring the Lumina Studio to the front 
 <img width="1112" alt="Screen Shot 2022-03-31 at 11 41 49" src="https://user-images.githubusercontent.com/36635194/160981550-eba1977b-ca62-4a19-8836-d4e84f659546.png">
 
 10. Test the automation before creating another automation. You can click `Run` on the top left of the window to test it.
