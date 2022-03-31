@@ -50,7 +50,7 @@ Personally, i use this to reopen terminal window on the task bar -> type `lldb L
 24. Choose open file, and select your automation, also select `at time of event` if you want that scheduler to run punctually
 <img width="373" alt="Screen Shot 2022-03-31 at 11 56 12" src="https://user-images.githubusercontent.com/36635194/160982224-485f7d91-eac1-4098-887b-e45e324eef70.png">
 
-25. Create another event for the opening & closing automation. So your Calendar might look like this (more or less)
+25. Create another event for the opening & closing automation. Make sure the opening & closing preview events are after the initiating event one. So your Calendar might look like this (more or less)
 <img width="1792" alt="Screen Shot 2022-03-31 at 12 24 39" src="https://user-images.githubusercontent.com/36635194/160982634-6c2583f9-8bf2-4886-a743-d41b3ed0b4e8.png">
 
 26. Now we are ready, i would personally test that scheduler by changing the date time to the near future of current date time. And then change it again to the expected date, if the previous one runs smoothly.
